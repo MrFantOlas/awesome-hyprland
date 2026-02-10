@@ -188,6 +188,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprsunset](https://github.com/hyprwm/hyprsunset) ![C++][cpp] (Hyprland utility for color temperature filter)
 - [waycorner](https://github.com/AndreasBackx/waycorner) ![rust][rs] (Hot corners for Wayland)
 - [nwg-displays](https://github.com/nwg-piotr/nwg-displays) ![python][py] (Provides an intuitive GUI to manage multiple monitors)
+- [rsunset](https://codeberg.org/mrfantome/rsunset)![rust][rs] (Day/Night gamma and brightness adjustement for Wayland)
 
 ### Workspace
 
